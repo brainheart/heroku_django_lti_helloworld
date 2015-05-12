@@ -1,0 +1,1 @@
+web: gunicorn heroku_django_lti_helloworld.wsgi --log-file -
